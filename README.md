@@ -21,17 +21,17 @@
 5. [Authors](#authors)
 
 ## **📜Introduction**
- * In this project we coded from scratch a simple Unix shell.
+ * In this project we coded from scratch a simple Unix printf function.
   
-  * But what is a shell?
+  * But what is a printf function?
     
-    A shell is an interactive command line interpreter (CLI). Which allows user's to type in a defined set of commands (e.g. "rm" to remove files, "cat" to combine word documents, etc) and have the operating system run the appropriate function. It is slightly different from a graphical user interface (GUI). For instance, instead of using a mouse to click to open folders and delete files, a user can type in a command (i.e. "ls" or "rm") and have the files be displayed or modified in a list on the command line. GUI and CLI both have the same purpose to interact with the operating system but their input methods are different and some developers prefer the CLI to interact with the shell because their typing is quicker than clicking and dragging.
+    Printf is a standard output formatting function commonly found in programming languages such as C, C++, and other related languages. The name "printf" stands for "print formatted," and its primary purpose is to produce formatted output based on a specified format string.
     
 [Back to Top](#project-name)
     
 ## **💡Synopsis**
 
-  This repository holds all the code necessary for our custom simple shell to run. Our shell currently handles the executions of executables found in the environmental variable PATH, with or without their full paths.
+  This repository holds all the code necessary for our custom printf function to run. Our printf currently handles the input is receiving to return an output.
   
 [Back to Top](#project-name)
   
