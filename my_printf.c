@@ -67,6 +67,6 @@ int _printf(const char *format, ...)
 		idx++;
 	}
 	}
-	va_end(list);
+	
 	return(result);
 }
