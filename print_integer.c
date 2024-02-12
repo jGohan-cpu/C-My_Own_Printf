@@ -39,7 +39,7 @@ int print_int(int num)
 	buffer[idx - i - 1] = temp;
 	}
 
-	res = print_string(buffer)
+	res = print_string(buffer);
 
 	return (res);
 }
