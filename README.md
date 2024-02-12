@@ -218,6 +218,6 @@
 
 ## 🤝Authors
 ![Jose Rivera](https://github.com/jGohan-cpu)
-![Eduardo Figueroa](https://github.com/JeanBarbosa-hue)
+![Jean Barbosa](https://github.com/JeanBarbosa-hue)
 
 [Back to Top](#project-name)
