@@ -4,9 +4,7 @@
 
 Input:
 ![Example](input.png)
-<div>
 Output:
-</div>
 ![Output](output.png)
 
 ## About the Developer
