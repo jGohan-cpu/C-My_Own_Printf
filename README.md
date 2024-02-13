@@ -2,7 +2,8 @@
 
 ## Screenshot
 
-![Printf Function](screenshot.png)
+![Example](input.png)
+
 
 ## About the Developer
 
