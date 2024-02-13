@@ -31,7 +31,7 @@
     
 ## **💡Synopsis**
 
-  This repository holds all the code necessary for our custom printf function to run. Our printf currently handles the input is receiving to return an output.
+  This repository holds all the code necessary for our custom printf function to run. Our printf currently handles the input is receiving to return an output and prints it
   
 [Back to Top](#project-name)
   
