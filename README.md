@@ -176,43 +176,37 @@
 [Back to Top](#project-name)
   
     
-## 📝Project Tasks
+-Task 0
+  -Write a README:
+  -Write a man for your printf function:
+  -Create a manual page (man) that explains the usage and features of your printf function.
+  -Include information on supported format specifiers and any specific options.
+  -AUTHORS file:
 
--We as a team have to follow a few given tasks to complete this project. Below you will find those tasks and what requirements have each one:
-
-  - Task 0
-    - Write a README
-    - Write a man for your shell
-    - AUTHORS file at the root of your repository
-  - Task 1
-    - Write a beautiful code that passes the Betty checks
-  - Task 2
-    -Write a UNIX command line interpreter
-      - The Shell should:
-        - Display a prompt and wait for the user to type a command. A command line always ends with a new line
-        - The prompt is displayed again each time a command has been executed.
-        - The command lines are simple, no semicolons, no pipes, no redirections or any other advanced features.
-        - The command lines are made only of one word. No arguments will be passed to programs.
-        - If an executable cannot be found, print an error message and display the prompt again.
-        - Handle errors.
-        - Have to handle the “end of file” condition (`Ctrl+D`)
-       - We don't have to:
-        - use the `PATH`
-        - implement built-ins
-        - handle special characters : `"`, `'`, `, `\`, `*`, `&`, `#`
-        - be able to move the cursor
-        - handle commands with arguments
-  - Task 3
-    - Handle command lines with arguments
-  - Task 4 
-    - Handle the `PATH`
-    - `fork` must not be called if the command doesn’t exist
-  - Task 5 
-    - Implement the `exit` built-in, that exits the shell
-    - Usage: `exit`
-    - Don’t have to handle any argument to the built-in `exit`
-  - Task 6
-    - Implement the `env` built-in, that prints the current environment
+-Task 1
+  -Write beautiful code that passes Betty checks:
+  -Refactor your printf function code to adhere to the Betty coding style.
+  -Ensure proper indentation, spacing, and variable/function naming conventions.
+  
+-Task 2
+  -Write a printf function:
+  -Implement a basic version of the printf function.
+  -Display the formatted output based on the provided format specifiers.
+-Task 3
+  -Handle printf function with arguments:
+  -Modify the printf function to accept variable arguments and format them accordingly.
+  -Ensure proper handling of different data types and format specifiers.
+-Task 4
+  -Handle printf function with PATH:
+  -Modify the printf function to incorporate the PATH for any additional formatting or information.
+  -Ensure the printf function behaves appropriately when the specified format requires external data.
+-Task 5
+  -Implement the exit built-in for printf:
+  -Create a function that exits the program when the printf function encounters a specified exit condition.
+  -Ensure it does not take any arguments.
+-Task 6
+  -Implement the env built-in for printf a function that prints the current environment using the printf function.
+  -Display relevant environment information with proper formatting.
 
 [Back to Top](#project-name)
 
