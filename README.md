@@ -7,10 +7,6 @@ Input:
 Output:
 ![Output](output.png)
 
-## About the Developer
-
-Hi there! I'm [Your Name], a passionate software developer with a love for creating efficient and reliable code. You can find more about me on my [LinkedIn](https://www.linkedin.com/in/your-name/) profile. I frequently share my thoughts and updates on Twitter [@YourTwitterAlias](https://twitter.com/your-twitter-alias). Check out my diverse portfolio on [GitHub](https://github.com/your-username) for more exciting projects.
-
 ## Project Description
 
 Welcome to my Printf Function implementation project! This project is a comprehensive implementation of the printf function in C, offering a flexible and extensible way to format and print text. The printf function is a fundamental part of the C programming language, and this project aims to provide a clean and efficient version with added features.
