@@ -2,10 +2,11 @@
 
 ## Screenshot
 
-Input
+Input:
 ![Example](input.png)
-
-Output
+<div>
+Output:
+</div>
 ![Output](output.png)
 
 ## About the Developer
